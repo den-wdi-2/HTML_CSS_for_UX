@@ -1,6 +1,7 @@
 # Developing a Developer's Mentality - a Course for UXDI
 
 <!-- Only through "So how does HTML talk to ..." -->
+<!-- Show a Packet's tale to break up monologue -->
 
 ## [How the Internet Works](https://github.com/den-wdi-2/how-the-internet-works) - 1.5 hrs
 
